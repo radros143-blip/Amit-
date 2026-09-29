@@ -1,0 +1,6 @@
+{
+  "name": "MAYRA AI - Futuristic Android AI Assistant",
+  "description": "MAYRA is a futuristic personal AI assistant inspired by JARVIS with Hindi/Hinglish voice conversation, Android device automation, live HUD dashboard, and intelligent screen understanding.",
+  "requestFramePermissions": ["camera", "microphone", "display-capture"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
